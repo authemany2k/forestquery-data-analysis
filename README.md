@@ -44,3 +44,8 @@ Write out a set of recommendations as an analyst on the ForestQuery team.
 - Which countries should we focus on over others?
 Overall, deforestation problems should really catch our eyes. From 1990 to 2016, the total deforestation amount reached 1324449.0 sq km.
 And we should focus on the countries in the region of Sub-Saharan Africa and the countries with low income.
+
+##My Recommendation
+(1)	From 1990 to 2016, We can see that the total deforestation amount had reached 1324449.0 sq km. This should be a global concern for everyone and what this mean is that the Ozone layer depletion is on the rise leading to more global warning such as we currently experiencing. 
+(2)	Region like Sub-Saharan Africa countries should of great concerns and all hands must be on deck to see that the region should be made aware of the danger of deforestation.
+(3)	Because of the low income in the region such as Sub-Saharan Africa the richer countries should be able to help.
