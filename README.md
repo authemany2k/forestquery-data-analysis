@@ -1,7 +1,7 @@
 # SQL Analysis for Deforestation Exploration
 ## By Olugbenga Felix Ajiga
 
-##Introduction
+## Introduction
 As a data analyst for ForestQuery, a non-profit organization. on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
 
 The executive director and her leadership team members are looking to understand which countries and regions around the world seem to have forests that have been shrinking in size,
