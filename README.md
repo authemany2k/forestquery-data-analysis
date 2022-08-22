@@ -12,15 +12,13 @@ I’ve been able to find tables of data online dealing with forestation as well 
 that you’d like to query to answer some of the most important questions in preparation for a meeting with the ForestQuery executive team coming up in a few days. Ahead of the meeting, 
 you’d like to prepare and disseminate a report for the leadership team that uses complete sentences to help them understand the global deforestation overview between 1990 and 2016.
 
-![Alt text](pic/deforest.png)
-
 ## Global Situation
 According to the World Bank, the total forest area of the world was ​41282694.9 sq km ​in 1990. As of 2016, the most recent year for which data was available, that number had fallen to ​39958245.9 sq km​, a loss of ​1324449.0 sq km ​, or ​3.208​%.
 The forest area lost over this time period is slightly more than the entire land area of Peru listed for the year 2016 (which is ​1279999.9891 sq km​).
 
 ## Regional Outlook
-In 2016, the percent of the total land area of the world designated as forest was ​31.375​%. The region with the highest relative forestation was ​Latin America & Caribbean​, with ​46.16​%, and the region with the lowest relative forestation was ​Middle East & North Africa​, with​2.07​ % forestation.
-In 1990, the percent of the total land area of the world designated as forest was ​32.422%​. The region with the highest relative forestation was ​Latin America & Caribbean​, with​ 51.03​%, and the region with the lowest relative forestation was ​Middle East & North Africa​, with ​1.78​% forestation.
+In 2016, the percent of the total land area of the world designated as forest was ​31.38​%. The region with the highest relative forestation was ​Latin America & Caribbean​, with ​46.16​%, and the region with the lowest relative forestation was ​Middle East & North Africa​, with ​2.07​ % forestation.
+In 1990, the percent of the total land area of the world designated as forest was ​32.42%​. The region with the highest relative forestation was ​Latin America & Caribbean​, with​ 51.03​%, and the region with the lowest relative forestation was ​Middle East & North Africa​, with ​1.78​% forestation.
 The only regions of the world that decreased in percent forest area from 1990 to 2016 were ​Latin America & Caribbean ​(dropped from 51.03% to 46.16%) and ​Sub-Saharan Africa​(30.67% to28.79%). All other regions actually increased in forest area over this time period. However, the drop in forest area in the two aforementioned regions was so large, the percent forest area of the world decreased over this time period from 32.42% to 31.38%.
 
 ## Country-Level Detail
@@ -46,6 +44,7 @@ Overall, deforestation problems should really catch our eyes. From 1990 to 2016,
 And we should focus on the countries in the region of Sub-Saharan Africa and the countries with low income.
 
 ## My Recommendation
+I have learnt from the analysis that the deforestation is on the rise and something urgent needs to be done about it.
 (1)	From 1990 to 2016, We can see that the total deforestation amount had reached 1324449.0 sq km. This should be a global concern for everyone and what this mean is that the Ozone layer depletion is on the rise leading to more global warning such as we currently experiencing. 
 (2)	Region like Sub-Saharan Africa countries should of great concerns and all hands must be on deck to see that the region should be made aware of the danger of deforestation.
 (3)	Because of the low income in the region such as Sub-Saharan Africa the richer countries should be able to help.
